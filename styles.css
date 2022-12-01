@@ -1,0 +1,37 @@
+th {
+    font-weight: bold;
+    font-size: x-large;
+    font-family: sans;
+    font-style: oblique;
+    color: bisque;
+  }
+
+  h3 {
+    margin: 0px 40px 0px 40px;
+    padding: 20px 20px;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: bolder;
+    font-style: italic;
+    color: burlywood
+  }
+  td{
+    font-size: large;
+    font-style: oblique;
+  }
+  input:hover{
+    outline: 3px solid rgb(154, 104, 19);
+  }
+  button{
+    background-image: linear-gradient( rgb(157, 118, 2), rgb(141, 91, 97));
+    border: 3px;
+    border-color: rgb(102, 79, 79);
+    color: rgb(244, 234, 189);
+    font-family: Georgia;
+  }
+  .grad{
+    background-image: linear-gradient(to bottom right rgba(255,255,255,.6), rgba(255,255,255,.1));
+  }
+  .lat-img{
+    width: 62%;
+  }
